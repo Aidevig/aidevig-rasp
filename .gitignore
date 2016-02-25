@@ -4,3 +4,9 @@
 # mp4  and h264 videos
 *.mp4
 *.h264
+
+# log files
+*.log
+
+# data directories
+images/
