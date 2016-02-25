@@ -1,5 +1,6 @@
-# Object file
-*.o
+# jpeg file
+*.jpg
 
-# Ada Library Information
-*.ali
+# mp4  and h264 videos
+*.mp4
+*.h264
